@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:compat="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/create_playlist"
+        android:title="@string/create_playlist"
+        compat:showAsAction="always"/>
+
+    <item
+        android:id="@+id/clear_selections"
+        android:title="@string/clear_selections"
+        compat:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/invert_all"
+        android:title="@string/invert_all"
+        compat:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/check_all"
+        android:title="@string/select_all"
+        compat:showAsAction="ifRoom"/>
+
+</menu>

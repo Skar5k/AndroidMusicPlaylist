@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Music Playlist</string>
+    <string name="create_playlist">Create Playlist</string>
+    <string name="clear_selections">Clear all selections</string>
+    <string name="invert_all">Invert selections</string>
+    <string name="select_all">Select all</string>
+    <string name="play_song">Play Song</string>
+    <string name="song_wiki">Song Wiki</string>
+    <string name="artist_wiki">Artist Wiki</string>
+    <string name="options">Options</string>
+    <string name="selectMore">Select at least one song</string>
+    <string name="song1name">Bulls on Parade</string>
+    <string name="song2name">Centuries</string>
+    <string name="song3name">Fade To Black</string>
+    <string name="song4name">Everlong</string>
+    <string name="song5name">Stairway To Heaven</string>
+    <string name="song6name">Lose Yourself</string>
+    <string name="song1artist">Rage Against The Machine</string>
+    <string name="song2artist">Fall Out Boy</string>
+    <string name="song3artist">Metallica</string>
+    <string name="song4artist">Foo Fighters</string>
+    <string name="song5artist">Led Zeppelin</string>
+    <string name="song6artist">eminem</string>
+    <string name="song1wikisong">https://en.wikipedia.org/wiki/Bulls_on_Parade</string>
+    <string name="song2wikisong">https://en.wikipedia.org/wiki/Centuries_(song)</string>
+    <string name="song3wikisong">https://en.wikipedia.org/wiki/Fade_to_Black_(song)</string>
+    <string name="song4wikisong">https://en.wikipedia.org/wiki/Everlong</string>
+    <string name="song5wikisong">https://en.wikipedia.org/wiki/Stairway_to_Heaven</string>
+    <string name="song6wikisong">https://en.wikipedia.org/wiki/Lose_Yourself</string>
+    <string name="song1vid">https://www.youtube.com/watch?v=my6bfA14vMQ</string>
+    <string name="song2vid">https://www.youtube.com/watch?v=dZEnQogAd8U</string>
+    <string name="song3vid">https://www.youtube.com/watch?v=WEQnzs8wl6E</string>
+    <string name="song4vid">https://www.youtube.com/watch?v=crOZk88eCcg</string>
+    <string name="song5vid">https://www.youtube.com/watch?v=BXSxSXKQCl8</string>
+    <string name="song6vid">https://www.youtube.com/watch?v=6Un9HLDCTCs</string>
+    <string name="song1wikiart">https://en.wikipedia.org/wiki/Rage_Against_the_Machine</string>
+    <string name="song2wikiart">https://en.wikipedia.org/wiki/Fall_Out_Boy</string>
+    <string name="song3wikiart">https://en.wikipedia.org/wiki/Metallica</string>
+    <string name="song4wikiart">https://en.wikipedia.org/wiki/Foo_Fighters</string>
+    <string name="song5wikiart">https://en.wikipedia.org/wiki/Led_Zeppelin</string>
+    <string name="song6wikiart">https://en.wikipedia.org/wiki/Eminem</string>
+
+
+</resources>
